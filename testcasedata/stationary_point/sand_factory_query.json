@@ -1,0 +1,15 @@
+{"sp_sand_factory_query_case1":{
+  "url": "https://ticketapitest.shomes.cn/-/point-sand-factory/list",
+  "data": {"order":[],"limit":10,"page":1,"keyword":"游飞3测试砂石场","consumType":2,"reportMethod":1,"areaId":8},
+  "username": "13608031941",
+  "password": "123456",
+  "status_code": 200
+},
+  "sp_sand_factory_query_case2":{
+  "url": "https://ticketapitest.shomes.cn/-/point-sand-factory/list",
+  "data": {"order":[],"limit":10,"page":1,"keyword":"游飞3测试砂石场","consumType":2,"reportMethod":1,"areaId":8},
+  "username": "13608031991",
+  "password": "youfei123",
+  "status_code": 200
+  }
+}
